@@ -28,9 +28,10 @@ Un patch non officiel français pour Monster Prom 4 - Monster con! (En dev.)
 
 
 **Et le dossier?**
-Windows: Dossier du jeu/StreamingAssets/aa/StandaloneWindows64/
 
-MacOS: Dossier du jeu.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/eventtypeicons_assets_all.bundle
+Windows: Dossierdujeu/StreamingAssets/aa/StandaloneWindows64/
+
+MacOS: Dossierdujeu.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/eventtypeicons_assets_all.bundle
 
 NOTE: Sur mac, pour accéder au dossier du jeu, faites Clic Droit sur l'application et "Afficher le contenu du paquet". Vous DEVEZ aussi utiliser Rosetta pour lancer le jeu sur les plateformes Silicon M1/M2/M3/M4, sans quoi un message d'erreur s'afficheras... (CMD + I > Ouvrir avec Rosetta), ça vaut en général aussi pour Steam(?).
 
