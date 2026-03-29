@@ -3,8 +3,8 @@ import os
 import shutil
 
 BUNDLE_PATH = "/Applications/Monster Prom 4 Monster Con.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/texts_assets_all.bundle"
-FRENCH_DIR = os.path.expanduser("~/Desktop/monsterprom_fr/french")
-OUTPUT_PATH = os.path.expanduser("~/Desktop/monsterprom_fr/texts_assets_all.bundle")
+FRENCH_DIR = os.path.expanduser("./french")
+OUTPUT_PATH = os.path.expanduser("./texts_assets_all.bundle")
 
 # Charger tous les fichiers french en mémoire
 french_files = {}
@@ -47,3 +47,7 @@ print(f"Bundle sauvegardé : {OUTPUT_PATH}")
 print(f"\nCopiez ce fichier dans :")
 print(f"  Mac   : /Applications/Monster Prom 4 Monster Con.app/")
 print(f"  Win   : StreamingAssets/aa/StandaloneWindows64/")
+print("")
+print("Fichiers chargés :")
+for k in sorted(french_files.keys()):
+    print(f"  '{k}'")

@@ -18,11 +18,11 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		Ah, Spooky Con... for some, it was just a nerdy convention; but for us?
-	narrator		It was four days to celebrate our many passions and obsessions fiercely; unapologetically.
-	narrator		And we weren't alone: regardless of what you loved, you could always find people who'd make you feel seen and understood.
-	narrator		Anywhere else, we might've been seen as weirdos and misfits...
-	narrator		...but here we could finally feel like, no matter who we were, we belonged.
+	narrator		Ah, Spooky Con… pour certains, ce n’était qu’une convention de nerds; mais pour nous ?
+	narrator		C'était 4 jours pour célébrer nos maintes passions et obsessions fièrement, et ce, sans réserve.
+	narrator		Et on n'était pas seuls; indépendamment de ce que tu aimais, tu pouvais toujours trouver des gens qui te faisait sentir vu et important.
+	narrator		Ailleurs, on aurait été vu comme des zarbis, des étranges érudits écartés de la société.
+	narrator		...mais ici, on pouvait se sentir nous même, qu'importe qui nous étions, on était à notre place.
 
 >>>	prologue_2			
 >writer	jules
@@ -30,10 +30,10 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		But as dreamy as Spooky Con was, it also came with its own set of pressures, some of which we already knew so well...
-	narrator		At the end of those four days, the afterparty loomed over our heads, posing that one evergreen question:	
-	narrator		Would we get a date for that night?
-	narrator		As uncertainty plagued our hearts, we couldn't help but think of the six hottest nerds at the con...
+	narrator		Mais aussi magique que la Spooky con pouvait sembler être, c'était aussi l'arrivée de quelques pressions, quelques-unes dont l'on connaissait déjà l'intitulé...
+	narrator		À la fin de ces 4 jours, l'après-fête tenait au dessus de nos tête, nous posant la naturelle question:	
+	narrator		Est-ce qu'on trouvera un date pour la nuit?
+	narrator		Alors que l'insécurité de la question remplissait nos coeurs, nous ne pouvions nous empêcher de penser aux 6 nerds les plus chaud de la convention...
 
 >>>	prologue_zoe
 >writer	jules
