@@ -1,6 +1,8 @@
 # monstercon-fr
 Un patch non officiel français pour Monster Prom 4 - Monster con! (En dev.)
 
+Merci à Kiki7008 pour l'aide!! <3
+
 ---
 
 **Pour l'instant...**
@@ -15,10 +17,11 @@ Un patch non officiel français pour Monster Prom 4 - Monster con! (En dev.)
 
 **Cependant! Voici la progression;**
 - ♢ metatexts.bytes - Ligne 631 sur Ligne 2501 (Interface, UI, Trucs utilisés partout)
-- ⌑ events_prologue - Ligne 36 sur Ligne 126 (Intro, Tuto??)
+- ☑ events_prologue - (Intro, Tuto??)
 - ☑ prologue_conpopquiz
-- ☑ prologuqe_likes
-
+- ☑ prologue_likes
+- ⌑ events_maingame - à faire! (asigné partiellement à kiki)
+- ⌑ events_endings - à faire! (asigné partiellement à blue)
 
 **Ce que j'ai à faire pour plus tard...**
 - Faire un meilleur Readme

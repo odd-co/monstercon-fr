@@ -41,7 +41,7 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		Zoe (???), an eldritch cutie who went from endless deity and harbinger of destruction to author of the renowned fanfic "Liam Prom".	Z_cool_npcprologue
+	narrator		Zoé (???), une cutie eldritchienne qui est passé de divinité et messagère de la destruction à autrice de la fanfiction renommée "Liam Prom".	Z_cool_npcprologue
 
 >>>	prologue_liam
 >writer	jules
@@ -49,7 +49,7 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		Liam de Lioncourt (4XX), a hipster vampire whose standoffish demeanor hid the fact that he was truly a loveable dork.	L_awfulidea_npcprologue
+	narrator		Liam de Lioncourt (4XX), un vampire hipster dont la personnalité aussi énervante que frustrante cache le coeur d'adorable débilus au fond de son coeur.	L_awfulidea_npcprologue
 
 >>>	prologue_doug
 >writer	jules
@@ -57,7 +57,7 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		Doug Campbell (24), a kind-hearted slime that was incredibly broke from supporting all the fandoms he loved.	DOU_hooray_npcprologue
+	narrator		Doug Campbell (24), un slime au coeur doux incroyablement ruiné financièrement du soutien qu'il apporte à tout ses fandoms.	DOU_hooray_npcprologue
 
 >>>	prologue_omen
 >writer	jules
@@ -65,7 +65,7 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		Omen (25?), an evil overlord who was recently freed from imprisonment in exchange for giving up her passion for stabbing people.	O_countyourdays_npcprologue
+	narrator		Omen (25?), une suzeraine maléfique récemment libérée de son emprisonnement en échange d'avoir abandonnée sa fâcheuse passion de poignarder les gens.	O_countyourdays_npcprologue
 
 >>>	prologue_nico
 >writer	jules
@@ -73,7 +73,7 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		Nico Sharp (22), an over-the-top mimic who preferred cosplay over shapeshifting, even if they weren't the best at getting into character.	NC_perfectcosplay_npcprologue
+	narrator		Nico Sharp (22), une mimique surdouée qui préfère qui préfère le cosplay à la métamorphose, même si c'est pas le meilleur pour rentrer dans le personnage.	NC_perfectcosplay_npcprologue
 
 >>>	prologue_april
 >writer	jules
@@ -81,7 +81,7 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		And April First (24), a clown idol who was contractually obligated to bottle up all of her non-camera-ready emotions inside "cute" mascots.	APR_hahaanyway_npcprologue
+	narrator		Et April Premier (24), une idole clown qui à été contractuellement obligée de garder ses émotions "pas pour la télé" à l'intérieur de mascottes "mignonnes".	APR_hahaanyway_npcprologue
 
 >>>	prologue_2_end
 >writer	jules
@@ -89,11 +89,11 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		It had to be one of them, but who?
-	narrator		We had four days to gather some courage and shoot our shot.
-	narrator		What was the worst that could happen? Being rejected and alone the rest of our lives? Ha!
-	narrator		We'd had our fair share of love and rejection... this surely wasn't our first rodeo.
-	narrator		And as we had grown to know ourselves better, we realized we felt more confident.
+	narrator		Ca devait être l'un d'eux, mais qui?
+	narrator		On avait quatre jours pour rassembler notre courage et essayer.
+	narrator		Quel était le pire qui pouvait arriver ? Se faire rejeter et pourrir seul pour le restant de nos jours? Ha!
+	narrator		Nous avions déjà eu notre lot d'amour et de rejet... ce n'était certainement pas notre premier rodéo.
+	narrator		Tandis que l'on avait grandi à mieux nous connaitre à l'intérieur, on savait qu'on était plus confident.
 
 >>>	prologue_3			
 >writer	jules
@@ -101,8 +101,8 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		We weren't new to all this, so this time we challenged ourselves with a goal other than finding love.
-	narrator		With the support of Zoe and Liam, we had decided to take on a project we had been putting off for too long...
+	narrator		On n'était franchement pas nouveau, alors cette fois, on a choisi un challenge en plus de trouver l'amour.
+	narrator		Avec le soutien de Zoé et Liam, nous nous sommes lancés dans un project repoussé depuis bien trop longtemps...
 
 >>>	prologue_3b
 >writer	jules
@@ -110,9 +110,9 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		Making our own comic!
-	narrator		We had so many ideas, and yet we always found excuses not to work on them.
-	narrator		But the con was the perfect setting to find inspiration and go for it.
+	narrator		Faire notre propre comic!
+	narrator		On avait tellement d'idées, et pourtant on trouvait toujours des raisons de pas travailler dessus.
+	narrator		Mais la convention avait l'environnement parfait pour trouver de l'inspiration et se lancer.
 
 >>>	prologue_4
 >writer	jules
@@ -120,6 +120,6 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		The fear of failure had stopped us for too long; but then we reminded ourselves of the one thing that always kept us going:
-	narrator		That we were young and unafraid...
-	narrator		...and we were ready to start.
+	narrator		La peur de l'échec nous a toujours arrêtés; et puis on s'est souvenu DU truc qui nous poussait à avancer :
+	narrator		Qu'on était jeunes et téméraires...
+	narrator		...Et puis on s'est lancés.
