@@ -5,8 +5,6 @@ import shutil
 BUNDLE_PATH = "/Applications/Monster Prom 4 Monster Con.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/texts_assets_all.bundle"
 FRENCH_DIR = os.path.expanduser("./french")
 OUTPUT_PATH = os.path.expanduser("./texts_assets_all.bundle")
-
-# Charger tous les fichiers french en mémoire
 french_files = {}
 for filename in os.listdir(FRENCH_DIR):
     if filename.endswith(".bytes"):
@@ -14,11 +12,7 @@ for filename in os.listdir(FRENCH_DIR):
             french_files[filename.replace(".bytes", "")] = f.read()
 
 print(f"{len(french_files)} fichiers français chargés\n")
-
-# Copie du bundle original
 shutil.copy2(BUNDLE_PATH, OUTPUT_PATH)
-
-# Charger et modifier le bundle
 env = UnityPy.load(OUTPUT_PATH)
 
 replaced = 0
@@ -27,7 +21,7 @@ for obj in env.objects:
         data = obj.read()
         name = data.m_Name  # ex: "english_events_guestintro"
         
-        # Cherche le fichier french correspondant
+        # Cherche le fichier french correspondant parce que PUTAIN EVIDEMENT C'ÉTAIT TROP COMPLIQUÉ DE JUSTE MODIFIER CEUX DANS ENGLISH
         french_name = name.replace("english_", "french_", 1)
         
         if french_name in french_files:
@@ -38,14 +32,14 @@ for obj in env.objects:
         else:
             print(f"  - {name} (pas de traduction, laissé en anglais)")
 
-# Sauvegarder
+# Sauvegarder et compil avec le ptn de truc de unity la
 with open(OUTPUT_PATH, "wb") as f:
     f.write(env.file.save(packer="lz4"))
 
 print(f"\n{replaced} assets remplacés")
 print(f"Bundle sauvegardé : {OUTPUT_PATH}")
-print(f"\nCopiez ce fichier dans :")
-print(f"  Mac   : /Applications/Monster Prom 4 Monster Con.app/")
+print(f"\nDossiers:")
+print(f"  Mac   : /Applications/Monster Prom 4 Monster Con.app/Content/Ressources/NTM Cherche toi même sur le readme")
 print(f"  Win   : StreamingAssets/aa/StandaloneWindows64/")
 print("")
 print("Fichiers chargés :")

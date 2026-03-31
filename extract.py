@@ -24,5 +24,4 @@ for obj in env.objects:
         count += 1
 
 print(f"\n{count} fichiers extraits dans {OUTPUT_DIR}")
-print("Tu peux maintenant les traduire dans le dossier 'english',")
-print("puis les copier dans un dossier 'french' en renommant english_ → french_")
+print("job done")
