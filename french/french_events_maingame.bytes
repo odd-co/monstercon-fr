@@ -372,9 +372,9 @@
 	doug	skeptical	1: Tu n'est pas vraiment un cowboy.
 	doug	thinking	2: Les tigres ne viennent pas du Far West. Je pense pas que tu pourrais capturer un tigre même SI tu étais un cowboy.
 	nico	sad	Mais... Mais je peux le faire! Je peux vraiment! Je me suis entraîner avec mon lasso! Comment tu penses que j'ai fait entrer le tigre ici ??
-	doug	shocked	QUOI?! Nico, did you let the tiger into the con just so you could show off your lasso?!	DOU_whatexc
-	nico	explaining	Heh. This town ain't big enough for the two of us to be askin' questions, buckaroo. We've got a tiger to wrangle!
-	narrator		Well, however it happened, there's a tiger in the con and you need to deal with it before it kills you or any of your hot friends. Any ideas?
+	doug	shocked	QUOI?! Nico, Est-ce que tu as vraiment laché ce tigre dans la convention juste pour pouvoir frimer avec ton lasso?!	DOU_whatexc
+	nico	explaining	Heh. Cette ville n'est pas assez grande pour nos questions à tous les deux, buckaroo. On a un tigre à dompter!
+	narrator		Well, however it happened, there's a tiger in the con and you need to deal with it before it kills you or any of your hot BG friends. Any ideas?
 >choice	1		Use the intercom to play annoying, high-pitched anime girl giggles. They have a soundwave frequency that drives most animals away.
 >choice	2		Craft and wear a convincing fursuit to seduce the tiger and lure it out of the con.
 >outcome	1
