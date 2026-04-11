@@ -23,7 +23,7 @@ Riripo je te vois
 - ⌑ events_maingame - 21,3 sur 24743 (Désolée, j'ai commencé au milieu - Tkt lol fait comme tu veux)
 - ⌑ events_endings - à faire! 
 - ⌑ events_comic - Ligne 119 sur 1162 (comic_intro terminé, il reste le reste...)
-- ⌑ events_challenge - Ligne 3 sur 207 (à peine débuté, sur la branche TEST?? For some reason???)
+- ⌑ events_challenge - Ligne 34 sur 207 (plus sur la branche test. la branche test est mort. rest in rip.)
 - ⌑ D'autres...????
 
 **Ce que j'ai à faire pour plus tard...**
