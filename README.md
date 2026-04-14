@@ -46,6 +46,10 @@ Unix/GNU+Linux: Je sais pas encore, mais surement le même chemin avec Standalon
 NOTE: Sur mac, pour accéder au dossier du jeu, faites Clic Droit sur l'application et "Afficher le contenu du paquet". Vous DEVEZ aussi utiliser Rosetta pour lancer le jeu sur les plateformes Silicon M1/M2/M3/M4, sans quoi un message d'erreur s'afficheras... (CMD + I > Ouvrir avec Rosetta), ça vaut en général aussi pour Steam(???).
 
 
+**Building**
+Il vous faut python3 et le module UnityPy. C'est tout.
+Téléchargez le repo, et tapez "python3 inject.py", et voilà! Elle est pas belle la vie?
+
 ---
 
 Vous voulez me supporter? Allez faire un tour sur mon Ko-Fi... ou pas.
