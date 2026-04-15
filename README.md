@@ -14,6 +14,10 @@ Riripo je suis sous ton lit.
 - Trouver quelqu'un pour aider svp...
 - C'est probablement bourré de fautes...
 
+# Projet frère
+Un outil créé pour le projet et utilisé durant le développement du patch.
+
+[https://github.com/LinkfandosVF/PromTool]
 
 
 **Cependant! Voici la progression;**
