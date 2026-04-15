@@ -14,8 +14,8 @@ Riripo je suis sous ton lit.
 - Trouver quelqu'un pour aider svp...
 - C'est probablement bourré de fautes...
 
-# Projet frère
-Un outil créé pour le projet et utilisé durant le développement du patch.
+# Projet frère :33
+Un outil créé pour le projet et utilisé durant le développement du patc, qui est techniquement une version boosté au stéroides du fichier make.py du projet.
 
 [https://github.com/LinkfandosVF/PromTool]
 
