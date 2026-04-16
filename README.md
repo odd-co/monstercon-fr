@@ -3,6 +3,8 @@ Un patch non officiel français pour Monster Prom 4 - Monster con! (En dev.)
 
 Riripo je suis sous tes draps.
 
+"Oublie d'avoir tuer la chaussette avant de vendre sa peau à l'ours"
+
 ---
 
 # Progression
@@ -25,7 +27,7 @@ Un outil créé pour le projet et utilisé durant le développement du patc, qui
 - ☑ events_prologue - (Intro, Tuto??)
 - ☑ prologue_conpopquiz
 - ☑ prologue_likes
-- ⌑ events_maingame - 21,3 sur 24743 (Désolée, j'ai commencé au milieu - Tkt lol fait comme tu veux)
+- ⌑ events_maingame - 1 sur 700 et des boulettes events 
 - ⌑ events_endings - à faire! 
 - ⌑ events_comic - Ligne 119 sur 1162 (comic_intro terminé, il reste le reste...)
 - ⌑ events_challenge - Ligne 89 sur 207, Challenge 23 (yay! j'suis à la moitié! plus sur la branche test. la branche test est mort. rest in rip.)
