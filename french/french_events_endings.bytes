@@ -1,4 +1,4 @@
->>>	success_doug1			
+>>>	success_doug1 
 >writer	quinn
 >event_type	ending
 >ending_type	success
@@ -109,13 +109,13 @@
 >ending_type	success
 >ending_npc	liam
 >action	3		Afterparty	
-	narrator		You finally gather your courage and ask one sexy purple gummy bear to go to the con afterparty with you...
+	narrator		Tu rassembles enfin ton courage et invite le nounours violet sexy a aller à la fête avec toi.
 >layout	solo	liam
-	liam	thinking	A date to the afterparty, you say?	Lex_thinking
-	liam	smile	Allow me to recite my answer in the form of poetry.
-	liam	talking	"Yours is an evening I'd be happy to join."
-	liam	blush	"Your smile stirs my heart and tickles my loins."
-	liam	blushside	...It's a rough draft, okay?	Lex_blushside
+	liam	thinking	Un rendez-vous après la fête, tu dis?	Lex_thinking 
+	liam	smile	Permets-moi de réciter ma réponse en poésie.
+	liam	talking	"La tienne est une soirée que je rejoins avec entrain;"
+	liam	blush	"Ton sourire réchauffe mon coeur et chatouille mes reins."
+	liam	blushside	...C'est un prototype, ok?	Lex_blushside
 
 >>>	success_omen1			
 >writer	quinn
@@ -123,13 +123,13 @@
 >ending_type	success
 >ending_npc	omen
 >action	1		Afterparty
-	narrator		You finally gather your courage and ask your favorite evildoer to go to the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et invite ta gremlin maléfique a aller à la fête avec toi...	
 >layout	solo	omen
-	omen	unimpressed	Hmm... yes, I suppose I am agreeable to going on a date with you.	O_ilikethis
-	omen	unimpressed	What is the protocol? Do I send you a calling card? Do I need to gain your elder's blessing?
-	omen	mischievous	You are not already betrothed, are you? I could kill your suitor. It would be an honor, in fact.
-	player	default	Um, no, none of that stuff is required anymore. You can just be my date if you want to.
-	omen	surprised	Ah! How efficient!	Oex_surprised
+	omen	unimpressed	Hmm... oui, Je suppose qu'il serait agréable de passer la soirée avec toi.	O_ilikethis
+	omen	unimpressed	Quel est le protocole ? Dois-je envoyer une carte de visite ? Ai-je besoin de gagner la bénédiction de ton aïeul ?
+	omen	mischievous	Tu n'est pas fiancé, n'est-ce pas? Je pourrais tuer ton marri. Ça serait un honeur, vraiment.
+	player	default Hum, non, rien de tout ça est obligatoire de nos jours. Tu peux juste être ma date si tu veux.
+	omen	surprised	Ah! Merveilleux.	Oex_surprised
 
 >>>	success_omen2			
 >writer	quinn
@@ -137,12 +137,12 @@
 >ending_type	success
 >ending_npc	omen
 >action	3		Afterparty
-	narrator		You finally gather your courage and ask your beloved badass villain to go to the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et demande à ta très chère méchante badass d'aller à la fête avec toi...	
 >layout	solo	omen
-	omen	surprised	You are asking me on a date? Just like that?	Oex_surprised
-	omen	unimpressed	How times have changed. Previously, my suitors would have groveled at my feet just to feel my hand wrapped around their throat.
-	player	default	I mean... I could be persuaded to do that, if you want.
-	omen	scheming	Hmmmm... later, perhaps. For now, let us party.	Oex_scheming
+	omen	surprised	Tu me proposes sur un rendez-vous? Comme ça, là?	Oex_surprised
+m	omen	unimpressed	Les temps ont changés. À mon époque, mes prétendants s'aggenouillaient devant moi juste pour sentir ma main écraser  leurs cou.
+	player	default	Bahhhhhhhhhhh... Tu peux essayer de me convaincre de le faire.
+	omen	scheming	Hmmmm… plus tard, peut-être. Pour l’instant, faisons la fête, comme disent les jeunes.	Oex_scheming
 
 >>>	success_omen3			
 >writer	quinn
@@ -150,14 +150,14 @@
 >ending_type	success
 >ending_npc	omen
 >action	0		Afterparty
-	narrator		You finally gather your courage and ask your least-friendly friend to go to the con afterparty with you...
+	narrator		Tu rassembles enfin ton courage et demande à ta sympathique pas sympathique copine d'aller à la fête avec toi...
 >layout	solo	omen
-	omen	surprised	A party, you say?	Oex_surprised
-	omen	unimpressed	The last party I went to was Diabolos, Scourge of All That is Holy's 112th birthday.	
-	omen	scary	We burned a village to the ground, salted the fields, and rejoiced at the sight of so many charred corpses.	
-	omen	surprised	Will this "afterparty" be anything like that?
-	player	default	Uh... no, probably not. But there'll be a hot dog truck!
-	omen	laugh	Oh, why did you not open with that? Let us party!	O_splendid
+	omen	surprised	Une fête, tu dit?	Oex_surprised
+	omen	unimpressed	La dernière fête à la quelle j'ai été était à Diabolos, 112e anniversaire du Fléau de tout les trucs sacrés.
+	omen	scary	On à fait cramer un village, salé les champs, et nous sommes réjouis de la vue de tant de corps mutilés.	
+	omen	surprised	Est-ce que cette "afterparty" ressemblera à ça?
+	player	default	Heu... non, sûrement pas. Mais y'auras un camion à hotdog!
+	omen	laugh	Oh, pourquoi t'a pas commencé par ça? Faisons la fête!	O_splendid
 
 >>>	success_april1			
 >writer	quinn
@@ -165,13 +165,13 @@
 >ending_type	success
 >ending_npc	april
 >action	1		Afterparty
-	narrator		You finally gather your courage and ask your favorite clownish cutie to go to the con afterparty with you...
+	narrator		Tu rassembles ton courage (et tes meilleurs vannes) et demande à ton poisson clown préferé d'aller à la fête avec toi...
 >layout	solo	april
-	april	default	Sure, I'd love to be your date to the party!	APR_droll
-	april	thinking	But if anyone from my agency sees us, I'm telling them you're a wealthy fan who paid $100 to go out with me, okay?
+	april	default	Bien sûr, J'adorerais être ton date pour la fête!	APR_droll
+	april	thinking	Mais si quelqu'un nous vois, Je leur dirait que t'es un fan riche qui à payé 100€ pour sortir avec moi, okay?
 	april	sing
-	cynicalmascot	default	You can send me that $100 in a few weeks. I take cash, check, and cryptocurrency.
-	april	cheerful	Honk honk! This'll be fun!	APRex_cheerful
+	cynicalmascot	default	Tu peux me les envoyer dans quelques semaines. Je prends cash, chèque et les cryptos!
+	april	cheerful	Honk honk! Ça va être rigolo!	APRex_cheerful
 
 >>>	success_april2			
 >writer	quinn
@@ -179,14 +179,14 @@
 >ending_type	success
 >ending_npc	april
 >action	0		Afterparty
-	narrator		You finally gather your courage and ask your good friend April to go to the con afterparty with you...
+	narrator		Tu rassembles enfin ton courage et demande à ta bonne AMIE April d'aller à la fête avec toi.
 >layout	solo	april
-	april	thinking	Umm... well... I need my agency's approval before I accept any dates...	APRex_thinking
-	player	default	What if it's just a hang-out between friends?
-	april	default	Oh, okay! My contract has no clauses against me having friends.
+	april	thinking	Umm... et bien... J'ai besoin de l'accord de mon agence avant d'accepter un date...	APRex_thinking
+	player	default	Et si on sort juste entre amis?
+	april	default	Oh, okay! Mon contract n'a pas de clause concernant le fait d'avoir des amis.
 	april	crying
-	sadmascot	default	[i]Yet.[/i]	
-	april	nervous	Haha... anyway... see you at the party!	APR_hahaanyway
+	sadmascot	default	[i]Pour l'instant.[/i]	
+	april	nervous	Haha... bref... on se voit à la fête!	APR_hahaanyway
 
 >>>	success_april3			
 >writer	quinn
@@ -194,11 +194,11 @@
 >ending_type	success
 >ending_npc	april
 >action	3		Afterparty
-	narrator		You finally gather your courage and ask your favorite idol if she's "down to clown" at the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et demande à ton idole favorite si elle est "chaud pour faire les clowns" à la fête avec toi...
 >layout	solo	april
-	april	happy	Yes, I'd love to go to the party with you!	APRex_happy
-	april	wink	I really like you, %CURRENTPLAYERNAME%. You make my heart swell like a balloon...
-	hornymascot	default	And I can't wait for you to make me pop!	APR_horny_oooh
+	april	happy	Oui, j'adorerais y aller avec toi!	APRex_happy
+	april	wink	Je t'aimes vraiment bien, %CURRENTPLAYERNAME%. Tu fais gonfler mon coeur comme un ballon...
+	hornymascot	default	Et je peux pas attendre que tu le fasse éclater!~ APR_horny_oooh
 
 >>>	success_zoe1			
 >writer	quinn
@@ -206,13 +206,13 @@
 >ending_type	success
 >ending_npc	zoe
 >action	2		Afterparty
-	narrator		You finally gather your courage and ask your favorite eldritch cutie to go to the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et demande à ta créature lovecraftienne mimi d'aller à la fête avec toi.
 >layout	solo	zoe
-	zoe	excited	Hell yeah! I'd love to go to the party with you!	Z_fyeah
-	zoe	eyebrows	I'll be the Romeo to your Juliet; the Bonnie to your Clyde; the Castiel to your Dean...
-	player	default	...Don't one or both of those people die at the end?
-	zoe	laugh	Yup, just like real mortals. Your lifespans are so funny and short, heehee!
-	zoe	hyped	So let's make the most of the time you have and PAAARTY!	Zex_happy
+	zoe	excited	Carrément ! Je kifferais y aller avec toi!	Z_fyeah
+	zoe	eyebrows	Je serai le Roméo à ta Juliette; la Bonnie à ton Clyde; le Castiel à ton Dean...
+	player	default	...Y'a pas un des deux qui meurts toujours à la fin?
+	zoe	laugh	Ouep, comme des vrai mortels. Votre espérance de vie est si marrante et courte, heehee!
+	zoe	hyped	Alors profitons du temps qu'il te reste et FAISONS LA TEUF!!	Zex_happy
 
 >>>	success_zoe2			
 >writer	moyano
@@ -220,11 +220,11 @@
 >ending_type	success
 >ending_npc	zoe
 >action	0		Afterparty
-	narrator		You finally gather your courage and ask your best bud Zoe to go to the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et demande à ta bestie Zoe d'aller à la fête avec toi...
 >layout	solo	zoe
-	zoe	happy	Yeah, I'll totally go to the party with you!	Zex_happy
-	zoe	dreamy	I appreciate you asking me.
-	zoe	laugh	This con has been the best "friends-to-best-friends" 100k slowburn ever!
+	zoe	happy	Ouais, Carrément que j'irai avec toi à la fête !	Zex_happy
+	zoe	dreamy	Merci d'avoir demandé.
+	zoe	laugh	Cette convention a vraiment été le meilleur 100k slowburn "amies-to-besties" EVER!
 
 >>>	success_zoe3			
 >writer	moyano
@@ -232,14 +232,14 @@
 >ending_type	success
 >ending_npc	zoe
 >action	3		Afterparty
-	narrator		You finally gather your courage and ask your tantalizing, tentacled friend Zoe to go to the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et demande à ton étrange, amie tentaculaire Zoe d'aller à la fête avec toi.
 >layout	solo	zoe
-	zoe	laugh	You wanna go to the party with me? That's funny!	Zex_laugh
-	player	default	Why?
-	zoe	happy	Cause I actually wrote a one-off fanfic this morning where we went to the party together!	Z_fanficcometrue
-	zoe	blush	We were both cosplaying, and when the party was over we came back here and took off our cosplays and...
-	player	default	...And?
-	zoe	hyped	Heehee! No spoilers allowed!
+	zoe	laugh	Tu veux aller à la fête avec moi wanna go to the? C'est hilarant!	Zex_laugh
+	player	default	Pourquoi?
+	zoe	happy	Parce que ce matin j'ai éécrit une fanfic où on allait à la fête ensemble!	Z_fanficcometrue
+	zoe	blush	On était en cosplay, et à la fin de la fête, on est revenus ici et on a enlevé nos cosplay et...
+	player	default	...Et?
+	zoe	hyped	Heehee! Pas de spoil! 
 
 >>>	finalsuccess_doug1			
 >writer	quinn
