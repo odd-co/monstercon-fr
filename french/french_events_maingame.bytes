@@ -383,7 +383,7 @@
 	narrator		Mais quelles sont les alternatives ? Laisser Nico et son lasso se charger ? Ton plan de peut pas finir bien pire que ça, sûrement.
 >layout	none
 >background	normal	location_stands
-	narrator		Enfin, ça c'est ce que tu pensait avant que tu ne sois coincé à tendre une enceinte en face d'un tigre énervé pendant que tes amis ce cache avec le micro.
+	narrator		Enfin, ça c'est ce que tu pensait avant que tu ne te retrouve coincé à tendre une enceinte en face d'un tigre énervé pendant que tes amis se cachent derrière le micro.
 >layout	trio	omen,doug,nico
 	doug	default	Okay, On utilise le rire de quel waifu ?
 	omen	unimpressed	Est-ce que cela à vraiment une importance?
