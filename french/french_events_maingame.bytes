@@ -383,7 +383,7 @@
 	narrator		Mais quelles sont les alternatives ? Laisser Nico et son lasso se charger ? Ton plan de peut pas finir bien pire que ça, sûrement.
 >layout	none
 >background	normal	location_stands
-	narrator		Enfin, ça c'est ce que tu pensait avant que  tu ne sois coincé à tendre une enceinte en face d'un tigre énervé pendant que tes amis ce cache avec le micro.
+	narrator		Enfin, ça c'est ce que tu pensait avant que tu ne sois coincé à tendre une enceinte en face d'un tigre énervé pendant que tes amis ce cache avec le micro.
 >layout	trio	omen,doug,nico
 	doug	default	Okay, On utilise le rire de quel waifu ?
 	omen	unimpressed	Est-ce que cela à vraiment une importance?
@@ -408,19 +408,19 @@
 >layout	none
 >background	normal	location_stands
 	narrator		Avant même de t'en rendre compte, on te pousse dans la zone communautaire en fursuit, à fixer un tigre énervé.	
-	narrator		Stage fright turns your blood to ice and shuts down your brain. For the love of God, you can't remember what sound tigers are supposed to make.
-	narrator		Fuck, this is the school musical all over again! But no — today will be the day you beat your paralyzing stage fright!
-	narrator		Unfortunately, you get mixed up and start doing the tap dancing routine you never got to do back then. Oops.
-	narrator		The tiger studies you. Maybe it's working? Maybe it was mesmerized by your tap dancing skills?
+	narrator		Le trac transforme ton sang en glace et éteins ton cerveau. Pour l'amour de dieu, tu ne te souviens même pas de quels bruits sont supposés faire les tigres.
+	narrator		Putain, j'ai l'impression d'être de nouveau au spectacle de l'école ! Mais non — Aujourd'hui sera le jour où tu vaincs ton trac paralysant !
+	narrator		Malheureusement, tu t'emmêles les pinceaux et commence à faire le numéro de Claquettes que tu n'avais pas pu faire à l'époque. Oups.
+	narrator		Le tigre t'analyse. Peut-être que c'est en train de fonctionner ? Peut-être a-t-il été subjugué par tes talents de Claquettes ?
 >layout	trio	omen,doug,nico
-	doug	surprised	...Should we do something? It looks like the tiger is mauling %CURRENTPLAYERNAME%.
-	nico	confident	No, Doug, it worked. Can't you see it's mauling %HIMHER% with tender devotion? Violence is a tiger's love language!	
-	doug	blush	Gotcha! Gosh, I know so little about these things...	DOU_gotcha
-	doug	bliss	But I guess it makes sense. Red is the color of passion, after all; and with all that blood, everything's covered in %CURRENTPLAYERNAME%'s red, sticky love.
-	omen	shy	Fascinating. Perhaps I am a romantic after all.
+	doug	surprised	...Est-ce que l'on devrait faire quelque chose ? On dirait que le tigre est en train déchiqueter %CURRENTPLAYERNAME%.
+	nico	confident	Non, Doug, ça a marché. Tu ne vois donc pas qu'il est en train de déchiqueter %CURRENTPLAYERNAME%avec une tendre dévotion ? La violence est une marque d'affection pour le tigre !	
+	doug	blush	Pigé ! Punaise, Je sais si peu de chose là dessus...	DOU_gotcha
+	doug	bliss	Mais je suppose que ça fait sens. Rouge est la couleur de la passion, après tout; et avec tout ce sang, tout le monde est recouvert du rouge et collant amour de %CURRENTPLAYERNAME%.
+	omen	shy	Fascinant. Peut-être que je suis romantique après tout.
 >layout	none
-	narrator		The good news: after half an hour, the tiger got tired and your friends could capture it, and apparently the whole thing made everyone think you're a romantic at heart!
-	narrator		The bad news: you got mauled by a fuckin' tiger. You gain +2 CREATIVITY for your cool fursuit, but lose -2 SMARTS for... the rest of your plan.	
+	narrator		La bonne nouvelle: après un demi-heure, le tigre était fatigué et tes amis ont pu le capturer, et apparemment, maintenant tout le monde pense que tu es un romantique dans l'âme !
+	narrator		La mauvaise nouvelle: tu t'es fait mettre en pièce par un putain de tigre. Tu gagnes +2 CREATIVITY pour ton super fursuit, mais tu perds -2 SMARTS pour... le reste de ton plan.	
 
 >>>	lostkeysnoir
 >writer	quinn
