@@ -429,20 +429,20 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		Quelque temps après, tu es dans la salle de bain de l'hotel en train de de faire le test du reniflage sur le reste de tes t-shirts quand tu entends Liam grommeler  dans l'autre pièce.
+	narrator		Quelque temps après, tu es dans la salle de bain de l'hôtel en train de faire le test du reniflage sur le reste de tes t-shirts quand tu entends Liam grommeler dans l'autre pièce.
 >layout	trio	liam,zoe,nico
 >outfit	nico	noir
 >special_command	specialstufftag	nicocosplaynoir
-	liam	default Bon sang... Quelqu'un aurait-il vu mes clé ? J'aurais juré les avoir laissées sur la table de nuit.	L_dammit
-	nico	frustrated	"Pauvre Liam: Encore une autre victime d'un témoignage erroné. Tous les indices pointent vers la clé n'étant pas sur la table de nuit, et pourtant il continu à en insister."
-	nico	bummed	"je ne pouvais me résoudre à instiller plus de doutes dans son fragile esprit, même si sa mémoire avait plus de trous qu'un quartier d'emmental."
+	liam	default Bon sang... Quelqu'un aurait-il vu mes clés ? J'aurais juré les avoir laissées sur la table de nuit.	L_dammit
+	nico	frustrated	"Pauvre Liam : encore une autre victime d'un témoignage erroné. Tous les indices pointent vers la clé n'étant pas sur la table de nuit, et pourtant il continue à insister."
+	nico	bummed	"Je ne pouvais me résoudre à instiller plus de doutes dans son fragile esprit, même si sa mémoire avait plus de trous qu'un morceau d'emmental."
 	liam	unimpressed	...
-	zoe	default	Désolée, Je ne sais pas où pourrais être tes clés. Nico, Est-ce que ta superbe loupe est à la hauteur de la tâche de les retrouver ?
-	nico	confident	Évidemment! Ce détective est suffisament rentré chez lui en titubant de beuverie nocturne pour savoir comment suivre les indices vers un trousseau de clés disparu.	NCex_confident
-	zoe	happy	Génial! On a quoi comme indices pour l'instant ?
-	nico	thinking	Et bien, notre suspect principal a-t-il déjà retracé ses pas pour l'instant ?
-	liam	suspicious	Oui, évidemment que j' — attends, qu'est-ce que tu veux dire par "suspect principal"?	Lex_suspicious
-	nico	explaining	Tu étais le dernier en possession des clés, n'est-ce pas ? Comment peut-on être certain que tu les a perdu exprès pour cacher quelques agissements douteux ?
+	zoe	default	Désolée, je ne sais pas où pourraient être tes clés. Nico, est-ce que ta superbe loupe est à la hauteur de la tâche de les retrouver ?
+	nico	confident	Évidemment ! Ce détective est suffisamment rentré chez lui en titubant de beuverie nocturne pour savoir comment suivre les indices vers un trousseau de clés disparu.	NCex_confident
+	zoe	happy	Génial ! On a quoi comme indices pour l'instant ?
+	nico	thinking	Eh bien, notre suspect principal a-t-il déjà retracé ses pas pour l'instant ?
+	liam	suspicious	Oui, évidemment que j'— attends, qu'est-ce que tu veux dire par "suspect principal" ?	Lex_suspicious
+	nico	explaining	Tu étais le dernier en possession des clés, n'est-ce pas ? Comment peut-on être certain que tu ne les as pas perdues exprès pour cacher quelques agissements douteux ?
 	zoe	eyebrows	Oooh! Liam, have you been gettin' up to some spicy business in the hotel room you didn't want us to find out about?
 	liam	shocked	NON! JE N'AI ÉVIDEMMENT FAIT EXPRÈS DE PERDRE MES CLÉS!
 	narrator		You'd better solve this mystery before Liam blows a gasket. How can you find the missing keys?
