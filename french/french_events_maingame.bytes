@@ -5,70 +5,70 @@
 >topic_tags	liamprom
 >argument_tags
 >layout	none
-	narrator		You must've dozed off during a panel, because you wake up in the middle of a "Liam Prom" cosplay contest. Liam and Zoe are chatting with Nico on the sidelines.
+	narrator		T'a du t'endormir un moment, parce que maintenant tu te réveille dans un concours de cosplay "Liam Prom". Liam et Zoe are parlent avec Nico sur le coté.
 >layout	trio	liam,nico,zoe
 >outfit	liam	normal
-	zoe	happy	So, which Liam are you cosplaying? Cartographer Liam? Brooding Antihero Liam? Liam With A Septum Ring?
+	zoe	happy	Alors tu vas cosplay quel liam? Liam Cartographe? Liam Antihero chiant? Liam Avec Un Percing Au Nez?
 >outfit	nico	liam
 >special_command	specialstufftag	nicocosplayliam
-	nico	default	I went with Classic Liam! What do you think?	NCex_default
-	zoe	surprised	Wow, that's impressive. Where'd you get such an accurate costume?
-	nico	happy	I found it in Liam's suitcase. It was real nice of him to pack a Classic Liam cosplay just for me!
-	liam	bored	...I'm pretty sure that those are just my clothes.	Lex_bored
-	nico	determined	Even better, 'cause I gotta get DEEP into character to win this. I need to be the best Liam I can be!
-	liam	talking	Then you must embody the spirit of my aloof artistry, beautifully tortured by an unaesthetic world—
-	zoe	hyped	AND SHOW CLEAVAGE!	Z_cleavage
-	nico	thinking	How much cleavage?
-	zoe	scary	ALLLLLL THE CLEAVAGE.
+	nico	default	Liam Classique! Qu'est-ce que tu en pense?	NCex_default
+	zoe	surprised	Wow, c'est impressionant. Où est-ce que t'a eu un costume aussi accurate?
+	nico	happy	Je l'ai trouvé dans la valise de Liam. Trop sympa d'avoir ammené un cosplay Liam Classique juste pour moi!
+	liam	bored	...J'suis à peu près sur que c'est juste mes fringues.	Lex_bored
+	nico	determined	Encore mieux, je vais être à FOND dans le perso avec ça! Je dois être le meilleur Liam possible! Donner le meilleur de lia-même...
+	liam	talking	Alors tu dois incarner l'esprit de l'artiste vagabond, magnifiquement torturé par un monde dans ésthetique—
+	zoe	hyped	ET MONTRER DE L'INDIFFÉRENCE!!	Z_cleavage
+	nico	thinking	À quel point?
+	zoe	scary	TOUUUUTE L'INDIFFÉRENCE.
 >layout	none
-	narrator		Whether it's because they show cleavage or because they're wearing Liam's actual clothes, Nico wins the "Liam Prom" cosplay contest! Woohoo!
+	narrator		Que ça soit parce qu'iel montre de l'indifférence, ou parce qu'iel porte les vêtements de Liam, Nico gagne haut la main le concours cosplay "Liam Prom"! Woohoo!
 >layout	trio	liam,nico,zoe
-	zoe	happy	Congrats, Nico! You were the most "Liam" Liam to ever Liam.
-	nico	confident	Of course I was. I AM the most "Liam" Liam who has ever Liam'd. What an ironic idiosyncracy it would have been for me to lose such a contest.	NC_iamliam
-	liam	suspicious	...What?
-	nico	explaining	You misunderstand me? How passé. Only the one true Liam could understand his own superior jargon. You must be some inferior poseur!
-	zoe	shocked	Oh no, I've seen this before. Nico's gone too deep into character. They think they're really Liam!
-	narrator		You'd better snap them out of it; this game can only take so much Liam!
->choice	1		Challenge Nico to define "antidisestablishmentarianism."
->choice	2		"Well, Liam owes me 100 bucks."
+	zoe	happy	Bravo, Nico! T'es le Liam le plus Liam de tout les Liam.
+	nico	confident	Evidemment. JE SUIS le "Liam" le plus Liam Liam qui ait jamais Liamé. Quelle idiocratie ironique que ça aurait été pour moi de perdre le concours.	NC_iamliam
+	liam	suspicious	...Hein?
+	nico	explaining	Tu ne me comprends pas ? Quelle ringardise. Seul le vrai Liam peut saisir son propre jargon supérieur. Tu n'es qu'un piètre imposteur !
+	zoe	shocked	Oh non, j'ai déja vu ça. Nico est trop dans le personnage. Iel pense vraiment être Liam!
+	narrator		Tu ferais mieux de l'reveiller; ce jeu à déja BEAUCOUP trop de Liam!
+>choice	1		Défier nico à établir "l'antidisestablissementarianism."
+>choice	2		"Beh, Liam me doit 100 balles."
 >outcome	1
-	nico	blank	That's easy! It's... it's...	NCex_blank
-	liam	default	Well?
-	nico	default	It's... a trick question! Everyone knows there's no such word.
-	liam	bored	No, it's real.
-	nico	explaining	Ah, right... I knew that! I was just testing you, and you passed. You are a highly convincing Liam cosplayer, my friend.
-	liam	eyeroll	Thanks. Now define "antidisestablishmentarianism," please.
-	nico	thinking	Well, I COULD bore you with the definition of such a menial word... or I could spend my time doing something truly enriching!	NC_howpasse
-	nico	confident	Like drawing two burly men kissing and touching each other's butts! For I am Liam, ARTISTE OF BUTTS!
-	liam	eyeroll	No, we're not drawing butts right now. We're defining "antidisestablishmentarianism."
-	zoe	naughty	Is that set in stone? Could we take a vote on it? I vote for butts.	Z_votebutts
-	nico	blank	Antidisestablishmentarianism is... a type of bird?
+	nico	blank	C'est facile! C'est... C'est...	NCex_blank
+	liam	default	Alors?
+	nico	default	C'est... une question piège! Ce mot n'existe pas.
+	liam	bored	Non, c'est un vrai mot.
+	nico	explaining	Ah, c'est vrai... Heu... Je le savais! Je te faisait un test, et t'a reussi. Tu est un cosplayer très convaincant.
+	liam	eyeroll	Merci. Maintenant, c'est quoi "antidisestablishmentarianism", S-V-P?
+	nico	thinking	Et bien, JE POURRAIS t'emmerder avec une definition mental de ce concept stupide... ou passer ce temps à faire quelque chose de VRAIMENT enrichissant!	NC_howpasse
+	nico	confident	Comme dessiner deux hommes musclés qui se touchent les fesses! Car je suis Liam, ARTISTE DES CULS!
+	liam	eyeroll	Non, pas de fesses pour l'instant. Là, on définit "l'antidisestablissementarianism."
+	zoe	naughty	C'est définitif? On peut faire un vote? Je vote pour les fesses.	Z_votebutts
+	nico	blank	antidisestablissementarianism c'est... un genre d'oiseau?
 	liam	default	Nope.
-	nico	bummed	Darn, I thought I had it. I guess I'm not Liam after all.
-	nico	determined	But it's okay. Cosplay is a constant process of learning! One day, I will truly become Liam!
-	nico	default	And now the one true Liam can show off his expertise of being Liam by defining antides... antedis... that long word!
-	liam	thinking	Yes, of course. Antidisestablishmentarianism is... um... how to put it...
+	nico	bummed	Merde, j'étais sur que je l'avais. Je suppose que je suis pas Liam après tout.
+	nico	determined	Mais c'est AUKAY. Le cosplay c'est de l'apprentissage! Un jour, je serais vraiment Liam!
+	nico	default	Et seul un vrai Liam peut montrer son expertise à être Liam en définissant antides... antedis... ce mot, là!
+	liam	thinking	Oui, évidemment. L'antidisestablissementarianism c'est... um... comment dire...
 	liam	embarrassed	...
 	nico	blank	...
-	liam	embarrassed	Actually, what if we drew two burly men kissing and touching each other's butts instead?
-	zoe	hyped	FUCK YEAH!	Z_fyeah
-	narrator		And so you do. You gain +2 SMARTS for breaking Nico out of character with a nerd word, but you lose -2 BOLDNESS.
+	liam	embarrassed	En fait, est si je dessinais deux hommes musclés qui se touchent les fesses à la place?
+	zoe	hyped	FUCK OUAIIISSS!!	Z_fyeah
+	narrator		Et tu le fait aussi. Tu gagne +2 QI pour faire sortir Nico de son personnage avec un mot de nerd, mais tu perds -2 AUDACE.
 >outcome	2
 >outfit	nico	normal
-	nico	surprised	Liam who?
-	liam	surprised	That's all it takes to break you out of character?	Lex_surprised
-	nico	blank	Yup. The art of cosplay is priceless, but I'm not.
-	zoe	happy	It's okay, Nico. It wasn't you who failed to cosplay as Liam; it was your bank account that failed to cosplay as Liam's bank account.
-	nico	excited	Yeah! Let's go with that!
-	liam	eyeroll	Eh... as long as you're yourself again, I'll take it. Some Liam cosplay is flattering, but even [i]I[/i] think there can be too much of me.
+	nico	surprised	Liam qui?
+	liam	surprised	C'est tout ce qu'il te faut pour te faire sortir du personnage?	Lex_surprised
+	nico	blank	Ouep. L'art du cosplay n'a pas de prix, mais moi si.
+	zoe	happy	C'est pas grave, Nico. C'est pas toi qui à échouer à cosplay Liam, c'est ton compte en banque qui n'a pas reussi à imiter celui de Liam...
+	nico	excited	Ouais! On va dire ça!
+	liam	eyeroll	Eh, tant que tu est à nouveau toi même, Je le prends. Certains cosplay Liam sont flatteurs, mais même [i]MOI[/i] je pense que c'est parfois un peu trop.
 	nico	hyped	Hahahaha!	NCex_hyped
 	zoe	hyped	Heehee!
 	liam	smile	Heh.
 	nico	blank	...
 	zoe	default	...
-	player	default	Okay, but are you paying me back or what, Liam?
-	liam	bored	Ugh. Fine.	L_hmpf
-	narrator		He gives you 100 dollars, even though you 100% made that up to break Nico out of character. Nice! You gain +2 BOLDNESS, but lose -2 SMARTS.	
+	player	default	Okay, mais du coup tu me rembourse Liam, ouuuu...
+	liam	bored	Ugh. T'as gagné.	L_hmpf
+	narrator		Il te donne 100€. Cool! Même si t'avais complètement inventé ça pour sauver Nico. Tu gagne +2 AUDACE, mais perds -2 QI.	
 
 >>>	savedseats
 >writer	quinn
