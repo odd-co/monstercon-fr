@@ -78,58 +78,58 @@
 >argument_tags
 >icon_only_npc	congoeridiot
 >layout	none
-	narrator		Afterward, you, Omen, April, and Doug go to see an orchestra perform the score from Skyrim. All you need to do is find a place to sit.	
+	narrator		Après ça, toi, Omen, April et Doug êtes allés voir une représentation orchestrale de Skyrim. Il ne vous restait plus qu’à trouver un endroit où vous asseoir.
 >layout	trio	omen,april,doug
-	doug	default	Hey, I found some empty seats! Let's sit here.	DOU_greetings3
-	congoeridiot		Oh, sorry, but you can't. I'm actually saving that seat for my friend who's in the bathroom.	
-	omen	unimpressed	You are... saving this seat? Do you mean to imply that sitting in any other chair would be unsafe?
-	doug	thinking	No, saving seats is just a thing friends do for each other. It's fine, we can sit further down.
-	congoeridiot		Sorry, I'm saving those seats too, for my other friends. They're also in the bathroom.
-	doug	thinking	Okay, no problem. What about these seats?
-	congoeridiot		Nope, I'm saving those for my friend and his cousin — or maybe he said she was his fiancé? They're in the bathroom, at any rate.
-	omen	angry	Then they can view the concert from the toilets that they are so obsessed with! GIVE ME A SAFE SEAT IN WHICH TO PARK MY ASS OR PREPARE TO DIE!	O_preparetodie
-	april	surprised	No, Omen! You can't kill him!
-	psychomascot	default	Because I'm gonna murder him first! And then I'm gonna eat his guts! OM NOM NOM!	APR_psycho_omnomnom
+	doug	default	Oh hey, j'ai trouvé des sièges vides! Asseyons-nous ici.	DOU_greetings3
+	congoeridiot		Oh, désolé, mais vous pouvez pas. Je garde celle-là pour mon ami. Il est parti au toilettes.	
+	omen	unimpressed	Tu... gardes cette place ? Veux-tu dire que s’asseoir dans un autre fauteuil serait dangereux ?
+	doug	thinking	Non, garder un siège c'est juste un truc que des potes font pour d'autres potes. C'est bon, on va aller ailleurs.
+	congoeridiot		Désolé, je garde aussi cette place pour mon autre ami. Il est AUSSI au toilettes.
+	doug	thinking	Okay, pas de problème, on peut s'assoir où? Ici?
+	congoeridiot		Nan, je garde celle là pour mon autre autre ami et son cousin — ou fiancé? Je sais plus, mais ils sont au toilettes.
+	omen	angry	Alors ils peuvent regarder le concert depuis les toilettes qui les obesède autant, MAINTENANT LAISSE NOUS NOUS ASSOIR OU PRÉPARE TOI À MOURIR!	O_preparetodie
+	april	surprised	Non, Omen! Tu ne peux pas le tuer!
+	psychomascot	default	Parce que je vais le tuer en premier! Et manger ses viscères! MIAM MIAM MIAM!	APR_psycho_omnomnom
 	april	shocked	...
-	narrator		Okay, getting this guy to give up his seats is quickly becoming a life-or-death situation. Convince him to let you sit!
->choice	1		"Are you sure you're already at the 'saving seats' stage of friendship? Maybe this is a bit too much and it'll make your friendship awkward."
->choice	2		"We're better friends than your friends. We have lambos! Some of us have more than one!"
+	narrator		Okay, convaincre ce type d'abandonner des sièges devient une situation de vie ou de mort, alors essaie de le convaincre s'il te plaît…
+>choice	1		"T'es sûr d'être déja à l'état 'garder les sièges' de l'amitié? Peut-être que c'est un peu beaucoup et qu'ils seront incomfortable."
+>choice	2		"On est plus amis que tes amis! On à des Lambos! Certains de nous plus que une!"
 >outcome	1
-	congoeridiot		Really? I didn't know there were stages of friendship...
-	april	default	Of course there are! Stage 1 is sending each other funny memes. Stage 2 is going out to eat together.
-	lazymascot	default	Stage 3 is finally sharing the deep stuff... like how your balloon kink might be tied to your mommy issues.	
+	congoeridiot		Vraiment? Je savais pas que y'avais des états à l'amitié...
+	april	default	Évidemment! Stage 1 c'est s'envoyer des memes. Stage 2 c'est manger ensemble..
+	lazymascot	default	Stage 3 c'est partager les trucs sensible... genre comment ton fétishisme des ballons peut-être lié à tes problèmes avec ta mère...
 	doug	surprised	...
 	omen	shy	...
-	april	sweating	HAHA, ANYWAY, SEAT-SAVING IS STAGE 4.	APRex_sweating
-	congoeridiot		Oh, man, I don't even think I'm at stage 1 yet. I haven't sent my friends ANY funny memes!
-	doug	happy	I can help! I have a funny meme saved just in case I ever make a new friend. What are your friends' phone numbers?	DOU_icanhelp
-	congoeridiot		Um... I don't know... come to think of it, I don't even know their numbers... or their names for that matter.
-	april	wink	Oh. Welp! Case solved then: it's still too soon for you to save seats for them.	APR_wompwomp
-	congoeridiot		Gotcha. Thank goodness I ran into you all so you could set me straight. I'm gonna go find my friends and start at stage 0: telling them my name!
-	narrator		He leaves, and you can finally sit and enjoy the concert with your friends.
-	doug	blush	Um... hey... since it got brought up... are we at the "saving seats" stage in our friendship?
-	april	cheerful	Of course we are, silly goose! We know each other's names and everything!
-	omen	evil	Doug, if someone tried to take your seat, I would rip their heart out and eat it raw.	Oex_evil
-	doug	excited	Awww! Thanks!
-	narrator		How sweet. You gain +2 CHARM from the magic of seat-saving-level friendship, but lose -2 FUN.	
+	april	sweating	HAHA, BREF, GARDER LES SIÈGES C'EST STAGE 4.	APRex_sweating
+	congoeridiot		Oh, mec, putain, j'suis même pas stage 1, je leur ai jamais envoyé de memes!
+	doug	happy	Je peux aider! J'ai un meme rigolo au cas ou je me fait des amis. C'est quoi leur numéro de téléphone?	DOU_icanhelp
+	congoeridiot		Um... je sais pas... je connais pas leur numéros... ou leur noms en fait...
+	april	wink	Oh. Et bien! Affaire classée: c'est trop tôt pour garder les sièges!	APR_wompwomp
+	congoeridiot		Wow. Merci! Heureusement que vous me l'avez dit! Je vais commencer par l'étage 0 en allant les chercher pour leur dire mon nom.
+	narrator		Il se taille. Vous pouvez enfin vous assoir.
+	doug	blush	Um... hé... vu qu'on est sur le sujet... est-ce qu'on est à l'état "garder la place" de notre amitié?
+	april	cheerful	Evidemment gros bêta! On connaits nos noms et tout et tout!
+	omen	evil	Doug, si quelqu'un essayait de prendre ta place, j'arracherais leur coeur pour le manger cru.	Oex_evil
+	doug	excited	Awww! Merci!
+	narrator		Trop chou. Tu gagne +2 CHARISME grâce à la magie de garder la place de ses potes, mais perds -2 FUN.	
 >outcome	2
-	congoeridiot		Hmmm... that's a strong argument... lambos ARE pretty cool.
-	omen	scheming	Indeed, and we are cool for owning them. My companion here possesses 500 of these glorious "lambos."	Oex_scheming
-	omen	unimpressed	(Psst, %CURRENTPLAYERNAME%, what is a "lambo"?)
-	congoeridiot		Did you say 500 lambos? That doesn't make much sense. I'm, like, 80% sure nobody has that many lambos.
-	april	happy	Then prepare to re-evaluate, because you're in the presence of Lorenzo Lamborghini, heir to the centuries-old lineage of Lamborghinis!
+	congoeridiot		Hmm... Bon argument, les lambos c'est cool...
+	omen	scheming	En effet, et on est super "cool" pour en avoir?. Mon compagnion ici présent possède plus de 500 glorieuses "lambos."	Oex_scheming
+	omen	unimpressed	(Psst, %CURRENTPLAYERNAME%, c'est quoi une "lambo"?)
+	congoeridiot		500 lambos? C'est pas logique. J'suis genre, sûr à 80% que personne à autant de lambos.
+	april	happy	Alors ré-évalue toi, car te voici en présence de Lorenzo Lamborghini, maitre centenaire d'héritage de lambos!
 	doug	sweat	Uh, yeah! That's me, Lorenzo Lamborghini! Vroom vroom!	DOU_vroom
-	congoeridiot		Okay... what about the rest of you? Are you... Mrs. Lamborghini?
-	april	surprised	Me? Uh, well...
+	congoeridiot		Okay... et vous? Z'êtes genre... Mde. Lamborghini?
+	april	surprised	Moi? Heu...
 	april	startled
-	angrymascot	default	I'm Mrs. "I'm gonna stab you in the shins if you keep us from sitting here!"
-	congoeridiot		What?!
+	angrymascot	default	J'suis Mde. "Je vais te poignarder dans le rein si tu nous laisse pas nous assoir!"
+	congoeridiot		HEIN?!
 	april	cheerful	Vroom vroom!	APR_vroom
-	congoeridiot		Well, you know what? You all can sit here. It's true, you're way cooler than my other friends.
-	congoeridiot		I mean, they have ZERO lambos. And you'd think that imaginary friends could at least afford imaginary lambos! But nope, those guys are broke.
-	omen	angry	...What?	O_questionwhat
-	narrator		Luckily, the concert begins before any of your friends can attempt murder.
-	narrator		You may have lost -2 CHARM, but you gained +2 FUN from the hype of the concert and the imagined hype of owning 500 lambos. Vroom vroom!
+	congoeridiot		Ouais bah, vous savez quoi? Vous pouvez vous assoir. C'est vrai, vous êtes bien plus cool que mes amis...
+	congoeridiot		J'veux dire, ils ont ZÉRO lambos. Et on pourrait croire que les amis imaginaires auraient des lambos imaginaires! Mais nan, ces types sont fauchés.
+	omen	angry	...Hein?	O_questionwhat
+	narrator		Heureusement, le concert débute avant que l'un de tes amis ne puisse commettre d'homicide.
+	narrator		T'as perdu -2 CHARISME, mais gagné +2 FUN de la hype du concert et de la possession de lambos! Vroom vroom!
 
 >>>	miniaturepainting
 >writer	quinn
