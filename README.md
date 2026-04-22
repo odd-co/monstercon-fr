@@ -1,7 +1,7 @@
 # monstercon-fr
 Un patch non officiel français pour Monster Prom 4 - Monster con! (En dev.)
 
-Riripo je suis dans ton placard.
+Riripo je suis sous ton bureau.
 
 "Oublie d'avoir tuer la chaussette avant de vendre sa peau à l'ours"
 
