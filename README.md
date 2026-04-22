@@ -56,7 +56,7 @@ Windows: Dossierdujeu/StreamingAssets/aa/StandaloneWindows64/
 
 MacOS: Dossierdujeu.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/
 
-Unix/GNU+Linux: Je sais pas encore, mais surement le même chemin avec Standalonequelquechose
+Unix/GNU+Linux: .local/share/Steam/steamapps/common/Monster Prom 4 - Monster Con/MonsterCon_Data/StreamingAssets/aa/StandaloneLinux64/
 
 NOTE: Sur mac, pour accéder au dossier du jeu, faites Clic Droit sur l'application et "Afficher le contenu du paquet". Vous DEVEZ aussi utiliser Rosetta pour lancer le jeu sur les plateformes Silicon M1/M2/M3/M4, sans quoi un message d'erreur s'afficheras... (CMD + I > Ouvrir avec Rosetta), ça vaut en général aussi pour Steam(???).
 

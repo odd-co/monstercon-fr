@@ -8,7 +8,7 @@
 		"TIT_BTN_SET": "Réglages",
 		"TIT_BTN_SET_CUS": "Customiser",
 		"TIT_BTN_SET_SYS": "Système",
-		"TIT_BTN_GAL": "Gaerie",
+		"TIT_BTN_GAL": "Galerie",
 		"TIT_BTN_GAL_ART": "Galerie D'art",
 		"TIT_BTN_GAL_ACH": "Succès",
 		"TIT_BTN_MET": "Meta-Shop",
@@ -242,7 +242,7 @@
 		"GME_DRT_150": "2 heures[n]et demi",
 		"PRL_STT_MUS": "CHOISI TON OST!",
 		"PRL_STT_LIK1": "DIT NOUS",
-		"PRL_STT_LIK2": "TRUCS QUE T'AIME",
+		"PRL_STT_LIK2": "TRUCS QUE T'AIMES",
 
 		//Stickers
 		"STK_ADD": "Ajouter Sticker",
