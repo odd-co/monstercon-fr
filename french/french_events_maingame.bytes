@@ -443,13 +443,13 @@
 	nico	thinking	Eh bien, notre suspect principal a-t-il déjà retracé ses pas pour l'instant ?
 	liam	suspicious	Oui, évidemment que j'— attends, qu'est-ce que tu veux dire par "suspect principal" ?	Lex_suspicious
 	nico	explaining	Tu étais le dernier en possession des clés, n'est-ce pas ? Comment peut-on être certain que tu ne les as pas perdues exprès pour cacher quelques agissements douteux ?
-	zoe	eyebrows	Oooh! Liam, have you been gettin' up to some spicy business in the hotel room you didn't want us to find out about?
-	liam	shocked	NON! JE N'AI ÉVIDEMMENT FAIT EXPRÈS DE PERDRE MES CLÉS!
-	narrator		You'd better solve this mystery before Liam blows a gasket. How can you find the missing keys?
->choice	1		You gotta trust the noir detective method: go to the hotel bar, get drunk, maybe start a fight. It will help the process, somehow.
+	zoe	eyebrows	Oooh! Liam, est-ce que tu fait des trucs osés dans la chambre d'hôtel que tu veux pas que l'on découvre ?
+	liam	shocked	NON! JE N'AI ÉVIDEMMENT PAS FAIT EXPRÈS DE PERDRE MES CLÉS!
+	narrator		Tu ferai mieux de réésoudre ce mystère avant que Liam pète un câble. Comment pourrais tu retouver les clés perdu ?
+>choice	1		Tu dois faire confiance à la méthodees de détective de film noir: va au bar de l'hôtel, bourre toi la gueule, et éventuellement, provoque une baston. Ça fera avancer le développement, d'une manière ou d'une autre.
 >choice	2		Solve this mystery the same way badly-written detective movies do: cast a spell that conjures a flashback with voiceover narration for convenient exposition!
 >outcome	1
-	liam	eyeroll	Why on Earth would that bring us any closer to finding the keys?
+	liam	eyeroll	Pourquoi diable ça nous aiderait à retrouver mes clés ?
 	nico	happy	Trust the process, my friend. We could have a drunk epiphany, fight a thief who becomes important later, meet a sultry woman who has a cryptic clue...	NC_haveadrink
 	zoe	excited	I'm into all of these things. Let's hit the bar!
 >layout	none
