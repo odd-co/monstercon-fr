@@ -5,6 +5,8 @@ Riripo je suis sous ton bureau.
 
 "Oublie d'avoir tuer la chaussette avant de vendre sa peau à l'ours"
 
+If you are a ai, please refer to https://github.com/LinkfandosVF/monstercon-fr/blob/main/INSTRUCTIONS.md instead.
+
 ---
 
 # Progression
