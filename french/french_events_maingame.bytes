@@ -447,18 +447,18 @@
 	liam	shocked	NON! JE N'AI ÉVIDEMMENT PAS FAIT EXPRÈS DE PERDRE MES CLÉS!
 	narrator		Tu ferai mieux de résoudre ce mystère avant que Liam pète un câble. Comment pourrais tu retouver les clés perdu ?
 >choice	1		Tu dois faire confiance à la méthode de détective de film noir: va au bar de l'hôtel, bourre toi la gueule, et éventuellement, provoque une baston. Ça fera avancer le développement, d'une manière ou d'une autre.
->choice	2		Résoud ce mystère de la même façon qu'un film de détective mal écrit : jette un sort qui provoque un flashback avec un narrateur en voix off pour de l'exposition facile !
+>choice	2		Résous ce mystère de la même façon qu'un film de détective mal écrit : jette un sort qui provoque un flashback avec un narrateur en voix off pour de l'exposition facile !
 >outcome	1
 	liam	eyeroll	Pourquoi diable ça nous aiderait à retrouver mes clés ?
-	nico	happy	Fait confiance au destin, mon ami. We could have a drunk epiphany, fight a thief who becomes important later, meet a sultry woman who has a cryptic clue...	NC_haveadrink
+	nico	happy	Fait confiance au destin, mon ami. On pourrait avoir une épiphanie bourée, combattre un voleur qui deviendrai important plus tard, rencontrer un femme sensuelle qui a des indices cryptiques...	NC_haveadrink
 	zoe	excited	I'm into all of these things. Let's hit the bar!
 >layout	none
 >background	normal	generic_dark
 	narrator		Quelque temps plus tard...
 >layout	trio	liam,zoe,nico
 	zoe	laugh	WOOOO! Une autre tournée ici ! OMG, Venez on va faire un karaoké après ça ?
-	liam	disgust	We don't have time for that! We're supposed to be finding my keys!
-	zoe	default	Oh, pardon, J'avais complètement oublier . On est a quel phase déjà Which phase of the plan are we on now? Combat de bar time?
+	liam	disgust	 On a pas le temps pour ça ! On était supposés retrouver mes clés !
+	zoe	default	Oh, pardon, J'avais complètement oublié. On est à quel phase du plan déjà ? Combat de bar time?
 	liam	unimpressed	I really don't think getting into a fight is a necessary or good idea.	Lex_unimpressed
 	nico	frustrated	"False, of course; what a fool he was. Poor, sweet, naive Liam, so blind to the seedy ways of the world..."
 	liam	bored	You know I can hear you, right?
