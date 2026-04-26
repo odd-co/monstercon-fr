@@ -447,7 +447,7 @@
 	liam	shocked	NON! JE N'AI ÉVIDEMMENT PAS FAIT EXPRÈS DE PERDRE MES CLÉS!
 	narrator		Tu ferai mieux de résoudre ce mystère avant que Liam pète un câble. Comment pourrais tu retouver les clés perdu ?
 >choice	1		Tu dois faire confiance à la méthode de détective de film noir: va au bar de l'hôtel, bourre toi la gueule, et éventuellement, provoque une baston. Ça fera avancer le développement, d'une manière ou d'une autre.
->choice	2		Réssoud ce mystère de la même façon qu'un film de détective mal écrit : jette un sort qui provoque un flashback avec un narrateur en voix off pour de l'exposition facile !
+>choice	2		Résoud ce mystère de la même façon qu'un film de détective mal écrit : jette un sort qui provoque un flashback avec un narrateur en voix off pour de l'exposition facile !
 >outcome	1
 	liam	eyeroll	Pourquoi diable ça nous aiderait à retrouver mes clés ?
 	nico	happy	Fait confiance au destin, mon ami. We could have a drunk epiphany, fight a thief who becomes important later, meet a sultry woman who has a cryptic clue...	NC_haveadrink
