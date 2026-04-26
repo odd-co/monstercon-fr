@@ -21,7 +21,7 @@ If you are a ai, please refer to https://github.com/LinkfandosVF/monstercon-fr/b
 # Projet frère :33
 Un outil créé pour le projet et utilisé durant le développement du patc, qui est techniquement une version boosté au stéroides du fichier make.py du projet.
 
-[https://github.com/LinkfandosVF/PromTool]
+[https://github.com/odd-co/PromTool]
 
 
 **Cependant! Voici la progression;**
