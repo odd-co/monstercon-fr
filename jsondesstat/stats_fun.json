@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5977222829788395833
+  },
+  "m_Name": "stats_fun",
+  "name": "Fun",
+  "statType": 4,
+  "positiveSprite": {
+    "m_FileID": 1,
+    "m_PathID": -452593093115782396
+  },
+  "positiveSpriteNoText": {
+    "m_FileID": 1,
+    "m_PathID": -672804461876976710
+  },
+  "positiveSpriteStatCheck": {
+    "m_FileID": 1,
+    "m_PathID": -452593093115782396
+  },
+  "negativeSprite": {
+    "m_FileID": 1,
+    "m_PathID": -4366629841156045725
+  },
+  "negativeSpriteNoText": {
+    "m_FileID": 1,
+    "m_PathID": 1325083302108561085
+  },
+  "negativeSpriteStatCheck": {
+    "m_FileID": 1,
+    "m_PathID": -4366629841156045725
+  }
+}

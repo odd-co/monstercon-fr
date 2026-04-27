@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5977222829788395833
+  },
+  "m_Name": "stats_smarts",
+  "name": "QI",
+  "statType": 0,
+  "positiveSprite": {
+    "m_FileID": 1,
+    "m_PathID": -4918219594002999915
+  },
+  "positiveSpriteNoText": {
+    "m_FileID": 1,
+    "m_PathID": -8948987622743787748
+  },
+  "positiveSpriteStatCheck": {
+    "m_FileID": 1,
+    "m_PathID": -4918219594002999915
+  },
+  "negativeSprite": {
+    "m_FileID": 1,
+    "m_PathID": -4758806086741480519
+  },
+  "negativeSpriteNoText": {
+    "m_FileID": 1,
+    "m_PathID": -851039388056030702
+  },
+  "negativeSpriteStatCheck": {
+    "m_FileID": 1,
+    "m_PathID": -4758806086741480519
+  }
+}

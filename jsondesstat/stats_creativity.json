@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5977222829788395833
+  },
+  "m_Name": "stats_creativity",
+  "name": "Créativité",
+  "statType": 2,
+  "positiveSprite": {
+    "m_FileID": 1,
+    "m_PathID": -4495892411210410836
+  },
+  "positiveSpriteNoText": {
+    "m_FileID": 1,
+    "m_PathID": -2131859924605910096
+  },
+  "positiveSpriteStatCheck": {
+    "m_FileID": 1,
+    "m_PathID": -4495892411210410836
+  },
+  "negativeSprite": {
+    "m_FileID": 1,
+    "m_PathID": -4632488046435930336
+  },
+  "negativeSpriteNoText": {
+    "m_FileID": 1,
+    "m_PathID": -8426722965361481932
+  },
+  "negativeSpriteStatCheck": {
+    "m_FileID": 1,
+    "m_PathID": -4632488046435930336
+  }
+}

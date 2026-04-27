@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5977222829788395833
+  },
+  "m_Name": "stats_boldness",
+  "name": "Audace",
+  "statType": 1,
+  "positiveSprite": {
+    "m_FileID": 1,
+    "m_PathID": -1976691791957476045
+  },
+  "positiveSpriteNoText": {
+    "m_FileID": 1,
+    "m_PathID": -4161386721389784203
+  },
+  "positiveSpriteStatCheck": {
+    "m_FileID": 1,
+    "m_PathID": -1976691791957476045
+  },
+  "negativeSprite": {
+    "m_FileID": 1,
+    "m_PathID": -5334418713309455354
+  },
+  "negativeSpriteNoText": {
+    "m_FileID": 1,
+    "m_PathID": -7707510794768244196
+  },
+  "negativeSpriteStatCheck": {
+    "m_FileID": 1,
+    "m_PathID": -5334418713309455354
+  }
+}
