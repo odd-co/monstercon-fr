@@ -451,18 +451,18 @@
 >outcome	1
 	liam	eyeroll	Pourquoi diable ça nous aiderait à retrouver mes clés ?
 	nico	happy	Fait confiance au destin, mon ami. On pourrait avoir une épiphanie bourée, combattre un voleur qui deviendrai important plus tard, rencontrer un femme sensuelle qui a des indices cryptiques...	NC_haveadrink
-	zoe	excited	I'm into all of these things. Let's hit the bar!
+	zoe	excited	Ce sont que des trucs que j'adore. C'est parti pour le bar !
 >layout	none
 >background	normal	generic_dark
-	narrator		Quelque temps plus tard...
+	narrator		Quelques temps plus tard...
 >layout	trio	liam,zoe,nico
-	zoe	laugh	WOOOO! Une autre tournée ici ! OMG, Venez on va faire un karaoké après ça ?
+	zoe	laugh	WOOOOH! Une autre tournée ici ! OMG, Venez on va faire un karaoké après ça ?
 	liam	disgust	 On a pas le temps pour ça ! On était supposés retrouver mes clés !
 	zoe	default	Oh, pardon, J'avais complètement oublié. On est à quel phase du plan déjà ? Combat de bar time?
-	liam	unimpressed	I really don't think getting into a fight is a necessary or good idea.	Lex_unimpressed
-	nico	frustrated	"False, of course; what a fool he was. Poor, sweet, naive Liam, so blind to the seedy ways of the world..."
-	liam	bored	You know I can hear you, right?
-	nico	thinking	Of course. The point of noir narration is everyone can hear me. How else are you supposed to get exposition?
+	liam	unimpressed	Je suis certain que qu'un combat de bar n'est ni nécessaire ni une bonne idée.	Lex_unimpressed
+	nico	frustrated	"Faux, évidemment; quel imbécile était-il. Pauvre adorable naïf Liam, tellement aveugle aux voies sordides du monde..."
+	liam	bored	Tu sais que que l'on peut t'entendre quand même ?
+	nico	thinking	Evidemment. Le but de la narration, c'est que tout le monde m'entende. Sinon, comment es tu supposé avoir l'exposition ?
 	zoe	scary	Je peux plus attendre ! COMBAT DE BAR TIME!	Z_fighttime
 	narrator		Nico punches a nearby patron. The patron throws his stool at Nico. Zoe summons horrific tentacles out of the ground to throw people around. FIIIIIGHT!	
 	narrator		You're in the thick of it, losing teeth as fast as you can punch them out of other people's mouths, when Nico reaches into their pocket to pull out their (fake) pistol.
